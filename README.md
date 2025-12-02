@@ -2,13 +2,13 @@
 
 A simple regression model trained to predict house prices based on size, rooms, and other features.
 
-## 📌 Process
+##Process
 - Data loading
 - Linear Regression modeling
 - Evaluation using R² and MAE
 - Visualization of predicted vs actual values
 
-## 🧰 Tools
+##Tools
 - Pandas
 - Scikit-learn
 - Matplotlib
